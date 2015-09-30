@@ -1,0 +1,59 @@
+
+#navbar a{
+    text-decoration:none;
+
+}
+#navbar li{
+    display:inline-block;
+    border: 2px solid black;
+    padding: 4px;
+    font-family: 'Ek Mukta';
+    font-size: 50px;
+    
+    
+    
+    transition:0.5s linear;
+    background-color:rgb(21,34,53);
+    transform:rotateZ(0deg);
+}
+#navbar li:hover {
+    font-size:60px;
+    transform:rotateZ(1deg);
+    background-color:  rgb(217,237,246);
+    
+}
+#title{
+    text-align:Center;
+    font-family:georgia;
+    font-size:100px;
+    
+}
+#p {
+    font-size:50px;
+    text-align:Center;
+}
+#b{
+     font-family: georgia;
+    
+}
+#navbar a:visited { 
+    text-decoration: none; 
+    
+}
+#climb{
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
