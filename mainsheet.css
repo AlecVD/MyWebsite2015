@@ -1,39 +1,41 @@
 
 #navbar a{
     text-decoration:none;
-
+    color:white;
 }
 #navbar li{
     display:inline-block;
     border: 2px solid black;
-    padding: 4px;
-    font-family: 'Ek Mukta';
+    padding: 2px;
+    font-family:Arial;
     font-size: 50px;
     
     
     
     transition:0.5s linear;
-    background-color:rgb(21,34,53);
+    background-color:rgb(217,237,246);
     transform:rotateZ(0deg);
+    transform-origin:-2px;
 }
-#navbar li:hover {
+#navbar li:Hover {
     font-size:60px;
-    transform:rotateZ(1deg);
-    background-color:  rgb(217,237,246);
+    transform:rotateZ(0.5deg);
+    background-color:  rgb(21,34,53);
     
 }
 #title{
     text-align:Center;
-    font-family:georgia;
+    font-family:Arial;
     font-size:100px;
     
 }
 #p {
     font-size:50px;
     text-align:Center;
+    font-family:Arial;
 }
-#b{
-     font-family: georgia;
+body {
+     font-family: Arial;
     
 }
 #navbar a:visited { 
@@ -43,6 +45,8 @@
 #climb{
     text-align:center;
 }
+
+
 
 
 
