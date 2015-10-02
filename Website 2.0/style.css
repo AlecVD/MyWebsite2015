@@ -4,8 +4,7 @@ body {
   margin: 0;
   overflow: hidden;
   position: relative;
-  background-image:url("http://i.imgur.com/xtsut.jpg");
-  background-size:100%;
+  
 }
 
 
@@ -68,4 +67,7 @@ body {
 
 .icon-menu i {
   margin-right: 5px;
+}
+#active{
+  color:#DEC646;
 }
