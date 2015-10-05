@@ -71,3 +71,25 @@ body {
 #active{
   color:#DEC646;
 }
+#p1{
+  float:left;
+  size:50%;
+  padding-right:50px;
+  padding-left:50px;
+  text-align:center;
+}
+#p2{
+  float:left;
+  size:50%;
+  padding-right:50px;
+  padding-left:50px;
+  text-align:center;
+}
+#olivertwist{
+  text-align:center;
+  
+}
+#loaf{
+  text-align:center;
+  
+}
