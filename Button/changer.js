@@ -6,5 +6,5 @@ var header1 = document.getElementById("theHeader")
 btn1.addEventListener("click",function(){
     var newColor = inpt1.value;
     header1.style.color = newColor;
-    btn1.style.-color = newColor;
+    btn1.style.color = newColor;
 })

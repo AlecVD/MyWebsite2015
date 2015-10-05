@@ -69,7 +69,7 @@ body {
   margin-right: 5px;
 }
 #active{
-  color:#DEC646;
+  color:#FFD900;
 }
 #p1{
   float:left;
@@ -92,4 +92,9 @@ body {
 #loaf{
   text-align:center;
   
+}
+#theHeader{
+    
+    text-align:center;
+    
 }
